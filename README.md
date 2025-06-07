@@ -8,7 +8,7 @@ This package logs API request and response times (latency) and sends the logs to
 - Sends the logs to a specified **endpoint** via a POST request.
 - Supports error logging with status codes and latency details.
 
-## Installation
+## Installation 
 
 Install the package along with Axios.
 
