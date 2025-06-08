@@ -2,7 +2,7 @@
 
 This package logs API request and response times (latency) and sends the logs to a specified **endpoint** via a POST request. It works by intercepting Axios requests and responses, calculating the time taken for each API call, and sending the logs as JSON data to a specified API endpoint.
 
-## Features
+## Features 1
 
 - Automatically logs API request/response latency for Axios requests.
 - Sends the logs to a specified **endpoint** via a POST request.
